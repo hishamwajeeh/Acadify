@@ -1,0 +1,17 @@
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Service.deps.json
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Service.dll
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Service.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Data.dll
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Infrastructure.dll
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Data.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Service\bin\Debug\net8.0\Acadify.Infrastructure.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.csproj.AssemblyReference.cache
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.AssemblyInfoInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.AssemblyInfo.cs
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify..BA4A1709.Up2Date
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.dll
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\refint\Acadify.Service.dll
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\ref\Acadify.Service.dll

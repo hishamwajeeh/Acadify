@@ -1,0 +1,17 @@
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\bin\Debug\net8.0\Acadify.Infrastructure.deps.json
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\bin\Debug\net8.0\Acadify.Infrastructure.runtimeconfig.json
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\bin\Debug\net8.0\Acadify.Infrastructure.dll
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\bin\Debug\net8.0\Acadify.Infrastructure.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\bin\Debug\net8.0\Acadify.Data.dll
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\bin\Debug\net8.0\Acadify.Data.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.AssemblyInfo.cs
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify..D51BB60E.Up2Date
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.dll
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\refint\Acadify.Infrastructure.dll
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.genruntimeconfig.cache
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\ref\Acadify.Infrastructure.dll

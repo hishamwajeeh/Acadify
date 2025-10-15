@@ -1,0 +1,11 @@
+C:\Users\top\Desktop\Acadify\Acadify.Data\bin\Debug\net8.0\Acadify.Data.deps.json
+C:\Users\top\Desktop\Acadify\Acadify.Data\bin\Debug\net8.0\Acadify.Data.dll
+C:\Users\top\Desktop\Acadify\Acadify.Data\bin\Debug\net8.0\Acadify.Data.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.AssemblyInfoInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.AssemblyInfo.cs
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.dll
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\refint\Acadify.Data.dll
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\ref\Acadify.Data.dll

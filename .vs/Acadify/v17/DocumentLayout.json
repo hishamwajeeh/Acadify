@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\top\\Desktop\\Acadify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9FD6EF-B16A-48F6-8129-8152098B4CC2}|Acadify.Core\\Acadify.Core.csproj|c:\\users\\top\\desktop\\acadify\\acadify.core\\features\\student\\queries\\handlers\\studenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9FD6EF-B16A-48F6-8129-8152098B4CC2}|Acadify.Core\\Acadify.Core.csproj|solutionrelative:acadify.core\\features\\student\\queries\\handlers\\studenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9FD6EF-B16A-48F6-8129-8152098B4CC2}|Acadify.Core\\Acadify.Core.csproj|c:\\users\\top\\desktop\\acadify\\acadify.core\\features\\student\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9FD6EF-B16A-48F6-8129-8152098B4CC2}|Acadify.Core\\Acadify.Core.csproj|solutionrelative:acadify.core\\features\\student\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Core\\Features\\Student\\Queries\\Handlers\\StudentHandler.cs",
+              "RelativeDocumentMoniker": "Acadify.Core\\Features\\Student\\Queries\\Handlers\\StudentHandler.cs",
+              "ToolTip": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Core\\Features\\Student\\Queries\\Handlers\\StudentHandler.cs",
+              "RelativeToolTip": "Acadify.Core\\Features\\Student\\Queries\\Handlers\\StudentHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T03:05:23.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetStudentListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Core\\Features\\Student\\Queries\\Models\\GetStudentListQuery.cs",
+              "RelativeDocumentMoniker": "Acadify.Core\\Features\\Student\\Queries\\Models\\GetStudentListQuery.cs",
+              "ToolTip": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Core\\Features\\Student\\Queries\\Models\\GetStudentListQuery.cs",
+              "RelativeToolTip": "Acadify.Core\\Features\\Student\\Queries\\Models\\GetStudentListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:32:11.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

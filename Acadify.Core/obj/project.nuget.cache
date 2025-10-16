@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ob1J1nD4P4s=",
+  "dgSpecHash": "+wwShHtOIaM=",
   "success": true,
   "projectFilePath": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Core\\Acadify.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\top\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\top\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\top\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\top\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",

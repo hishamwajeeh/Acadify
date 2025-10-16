@@ -17,3 +17,4 @@ C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.dll
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\refint\Acadify.Core.dll
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\ref\Acadify.Core.dll
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.sourcelink.json

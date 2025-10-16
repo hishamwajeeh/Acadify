@@ -10,5 +10,6 @@ namespace Acadify.Service.Abstracts
     public interface IStudentService
     {
         public Task<List<Student>> GetAllStudentsAsync();
+        public Task<Student> GetStudentByIdAsync(int id);
     }
 }

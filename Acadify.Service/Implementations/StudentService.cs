@@ -1,6 +1,7 @@
 ﻿using Acadify.Data.Entities;
 using Acadify.Infrastructure.Interfaces;
 using Acadify.Service.Abstracts;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,15 @@ namespace Acadify.Service.Implementations
         public async Task<List<Student>> GetAllStudentsAsync()
         {
             return await _studentRepository.GetAllStudentsAsync();
+        }
+
+        public Task<Student> GetStudentByIdAsync(int id)
+        {
+            var student = _studentRepository.GetTableNoTracking()
+                .Include(s => s.Department)
+                .Where(s => s.StudID == id)
+                .FirstOrDefaultAsync();
+            return student;
         }
     }
 }

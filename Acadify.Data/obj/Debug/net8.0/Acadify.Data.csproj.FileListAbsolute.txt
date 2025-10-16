@@ -9,3 +9,4 @@ C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.dll
 C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\refint\Acadify.Data.dll
 C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\ref\Acadify.Data.dll
+C:\Users\top\Desktop\Acadify\Acadify.Data\obj\Debug\net8.0\Acadify.Data.sourcelink.json

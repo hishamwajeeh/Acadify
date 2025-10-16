@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Acadify.Infrastructure;
 using Acadify.Service;
+using Acadify.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +13,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 #region Dependency Injection
-builder.Services.AddInfrastructureDependencies().AddServiceDependencies();
+builder.Services.AddInfrastructureDependencies()
+    .AddServiceDependencies()
+    .AddCoreDependencies();
 #endregion
 
 builder.Services.AddEndpointsApiExplorer();

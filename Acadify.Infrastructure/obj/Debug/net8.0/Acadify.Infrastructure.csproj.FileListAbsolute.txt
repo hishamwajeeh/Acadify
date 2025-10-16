@@ -15,3 +15,4 @@ C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\refint\Acad
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.genruntimeconfig.cache
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\ref\Acadify.Infrastructure.dll
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.sourcelink.json

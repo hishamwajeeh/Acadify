@@ -42,6 +42,16 @@ namespace Acadify.Core.Bases
                 Message = "UnAuthorized"
             };
         }
+
+        public Response<T> UnprocessableEntity<T>(string Message = null)
+        {
+            return new Response<T>()
+            {
+                StatusCode = System.Net.HttpStatusCode.UnprocessableEntity,
+                Succeeded = false,
+                Message = Message == null ? "Unprocessable Entity" : Message
+            };
+        }
         public Response<T> BadRequest<T>(string Message = null)
         {
             return new Response<T>()

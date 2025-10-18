@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "Acadify.Api.Controllers.StudentController",
+    "Method": "CreateAsync",
+    "RelativePath": "Api/V1/Students/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addStudentCommand",
+        "Type": "Acadify.Core.Features.Student.Commands.Models.AddStudentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Acadify.Api.Controllers.StudentController",
     "Method": "GetAllStudentsAsync",
     "RelativePath": "Api/V1/Students/GetAllStudents",
     "HttpMethod": "GET",

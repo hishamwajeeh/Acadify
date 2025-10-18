@@ -1,0 +1,495 @@
+Folder PATH listing
+Volume serial number is DC8E-BE0D
+C:.
+³   Acadify.sln
+³   structure.txt
+³   
+ÃÄÄÄ.github
+³   ÀÄÄÄworkflows
+ÃÄÄÄAcadify.Api
+³   ³   Acadify.Api.csproj
+³   ³   Acadify.Api.csproj.user
+³   ³   Acadify.Api.http
+³   ³   appsettings.Development.json
+³   ³   appsettings.json
+³   ³   Program.cs
+³   ³   
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet8.0
+³   ³           ³   Acadify.Api.deps.json
+³   ³           ³   Acadify.Api.dll
+³   ³           ³   Acadify.Api.exe
+³   ³           ³   Acadify.Api.pdb
+³   ³           ³   Acadify.Api.runtimeconfig.json
+³   ³           ³   Acadify.Api.staticwebassets.endpoints.json
+³   ³           ³   Acadify.Core.dll
+³   ³           ³   Acadify.Core.pdb
+³   ³           ³   Acadify.Data.dll
+³   ³           ³   Acadify.Data.pdb
+³   ³           ³   Acadify.Infrastructure.dll
+³   ³           ³   Acadify.Infrastructure.pdb
+³   ³           ³   Acadify.Service.dll
+³   ³           ³   Acadify.Service.pdb
+³   ³           ³   appsettings.Development.json
+³   ³           ³   appsettings.json
+³   ³           ³   AutoMapper.dll
+³   ³           ³   Azure.Core.dll
+³   ³           ³   Azure.Identity.dll
+³   ³           ³   Humanizer.dll
+³   ³           ³   MediatR.Contracts.dll
+³   ³           ³   MediatR.dll
+³   ³           ³   Microsoft.Bcl.AsyncInterfaces.dll
+³   ³           ³   Microsoft.CodeAnalysis.CSharp.dll
+³   ³           ³   Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+³   ³           ³   Microsoft.CodeAnalysis.dll
+³   ³           ³   Microsoft.CodeAnalysis.Workspaces.dll
+³   ³           ³   Microsoft.Data.SqlClient.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.Abstractions.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.Design.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.Relational.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.SqlServer.dll
+³   ³           ³   Microsoft.Extensions.Caching.Memory.dll
+³   ³           ³   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+³   ³           ³   Microsoft.Extensions.DependencyInjection.dll
+³   ³           ³   Microsoft.Extensions.DependencyModel.dll
+³   ³           ³   Microsoft.Extensions.Logging.Abstractions.dll
+³   ³           ³   Microsoft.Extensions.Logging.dll
+³   ³           ³   Microsoft.Extensions.Options.dll
+³   ³           ³   Microsoft.Identity.Client.dll
+³   ³           ³   Microsoft.Identity.Client.Extensions.Msal.dll
+³   ³           ³   Microsoft.IdentityModel.Abstractions.dll
+³   ³           ³   Microsoft.IdentityModel.JsonWebTokens.dll
+³   ³           ³   Microsoft.IdentityModel.Logging.dll
+³   ³           ³   Microsoft.IdentityModel.Protocols.dll
+³   ³           ³   Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+³   ³           ³   Microsoft.IdentityModel.Tokens.dll
+³   ³           ³   Microsoft.OpenApi.dll
+³   ³           ³   Microsoft.SqlServer.Server.dll
+³   ³           ³   Microsoft.Win32.SystemEvents.dll
+³   ³           ³   Mono.TextTemplating.dll
+³   ³           ³   Swashbuckle.AspNetCore.Swagger.dll
+³   ³           ³   Swashbuckle.AspNetCore.SwaggerGen.dll
+³   ³           ³   Swashbuckle.AspNetCore.SwaggerUI.dll
+³   ³           ³   System.ClientModel.dll
+³   ³           ³   System.CodeDom.dll
+³   ³           ³   System.Composition.AttributedModel.dll
+³   ³           ³   System.Composition.Convention.dll
+³   ³           ³   System.Composition.Hosting.dll
+³   ³           ³   System.Composition.Runtime.dll
+³   ³           ³   System.Composition.TypedParts.dll
+³   ³           ³   System.Configuration.ConfigurationManager.dll
+³   ³           ³   System.Drawing.Common.dll
+³   ³           ³   System.IdentityModel.Tokens.Jwt.dll
+³   ³           ³   System.Memory.Data.dll
+³   ³           ³   System.Runtime.Caching.dll
+³   ³           ³   System.Security.Cryptography.ProtectedData.dll
+³   ³           ³   System.Security.Permissions.dll
+³   ³           ³   System.Windows.Extensions.dll
+³   ³           ³   
+³   ³           ÃÄÄÄcs
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄde
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄes
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄfr
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄit
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄja
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄko
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄpl
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄpt-BR
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄru
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄruntimes
+³   ³           ³   ÃÄÄÄunix
+³   ³           ³   ³   ÀÄÄÄlib
+³   ³           ³   ³       ÀÄÄÄnet6.0
+³   ³           ³   ³               Microsoft.Data.SqlClient.dll
+³   ³           ³   ³               System.Drawing.Common.dll
+³   ³           ³   ³               
+³   ³           ³   ÃÄÄÄwin
+³   ³           ³   ³   ÀÄÄÄlib
+³   ³           ³   ³       ÀÄÄÄnet6.0
+³   ³           ³   ³               Microsoft.Data.SqlClient.dll
+³   ³           ³   ³               Microsoft.Win32.SystemEvents.dll
+³   ³           ³   ³               System.Drawing.Common.dll
+³   ³           ³   ³               System.Runtime.Caching.dll
+³   ³           ³   ³               System.Security.Cryptography.ProtectedData.dll
+³   ³           ³   ³               System.Windows.Extensions.dll
+³   ³           ³   ³               
+³   ³           ³   ÃÄÄÄwin-arm
+³   ³           ³   ³   ÀÄÄÄnative
+³   ³           ³   ³           Microsoft.Data.SqlClient.SNI.dll
+³   ³           ³   ³           
+³   ³           ³   ÃÄÄÄwin-arm64
+³   ³           ³   ³   ÀÄÄÄnative
+³   ³           ³   ³           Microsoft.Data.SqlClient.SNI.dll
+³   ³           ³   ³           
+³   ³           ³   ÃÄÄÄwin-x64
+³   ³           ³   ³   ÀÄÄÄnative
+³   ³           ³   ³           Microsoft.Data.SqlClient.SNI.dll
+³   ³           ³   ³           
+³   ³           ³   ÀÄÄÄwin-x86
+³   ³           ³       ÀÄÄÄnative
+³   ³           ³               Microsoft.Data.SqlClient.SNI.dll
+³   ³           ³               
+³   ³           ÃÄÄÄtr
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÃÄÄÄzh-Hans
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.resources.dll
+³   ³           ³       Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³           ³       
+³   ³           ÀÄÄÄzh-Hant
+³   ³                   Microsoft.CodeAnalysis.CSharp.resources.dll
+³   ³                   Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+³   ³                   Microsoft.CodeAnalysis.resources.dll
+³   ³                   Microsoft.CodeAnalysis.Workspaces.resources.dll
+³   ³                   
+³   ÃÄÄÄControllers
+³   ³       StudentController.cs
+³   ³       
+³   ÃÄÄÄobj
+³   ³   ³   Acadify.Api.csproj.nuget.dgspec.json
+³   ³   ³   Acadify.Api.csproj.nuget.g.props
+³   ³   ³   Acadify.Api.csproj.nuget.g.targets
+³   ³   ³   project.assets.json
+³   ³   ³   project.nuget.cache
+³   ³   ³   
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet8.0
+³   ³           ³   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+³   ³           ³   Acadify..B9B1735D.Up2Date
+³   ³           ³   Acadify.Api.AssemblyInfo.cs
+³   ³           ³   Acadify.Api.AssemblyInfoInputs.cache
+³   ³           ³   Acadify.Api.assets.cache
+³   ³           ³   Acadify.Api.csproj.AssemblyReference.cache
+³   ³           ³   Acadify.Api.csproj.BuildWithSkipAnalyzers
+³   ³           ³   Acadify.Api.csproj.CoreCompileInputs.cache
+³   ³           ³   Acadify.Api.csproj.FileListAbsolute.txt
+³   ³           ³   Acadify.Api.dll
+³   ³           ³   Acadify.Api.GeneratedMSBuildEditorConfig.editorconfig
+³   ³           ³   Acadify.Api.genruntimeconfig.cache
+³   ³           ³   Acadify.Api.GlobalUsings.g.cs
+³   ³           ³   Acadify.Api.MvcApplicationPartsAssemblyInfo.cache
+³   ³           ³   Acadify.Api.MvcApplicationPartsAssemblyInfo.cs
+³   ³           ³   Acadify.Api.pdb
+³   ³           ³   Acadify.Api.sourcelink.json
+³   ³           ³   ApiEndpoints.json
+³   ³           ³   apphost.exe
+³   ³           ³   rjsmcshtml.dswa.cache.json
+³   ³           ³   rjsmrazor.dswa.cache.json
+³   ³           ³   rpswa.dswa.cache.json
+³   ³           ³   staticwebassets.build.endpoints.json
+³   ³           ³   staticwebassets.build.json
+³   ³           ³   staticwebassets.build.json.cache
+³   ³           ³   staticwebassets.references.upToDateCheck.txt
+³   ³           ³   staticwebassets.removed.txt
+³   ³           ³   
+³   ³           ÃÄÄÄEndpointInfo
+³   ³           ³       Acadify.Api.json
+³   ³           ³       Acadify.Api.OpenApiFiles.cache
+³   ³           ³       
+³   ³           ÃÄÄÄref
+³   ³           ³       Acadify.Api.dll
+³   ³           ³       
+³   ³           ÃÄÄÄrefint
+³   ³           ³       Acadify.Api.dll
+³   ³           ³       
+³   ³           ÀÄÄÄstaticwebassets
+³   ÀÄÄÄProperties
+³           launchSettings.json
+³           
+ÃÄÄÄAcadify.Core
+³   ³   Acadify.Core.csproj
+³   ³   ModuleCoreDependencies.cs
+³   ³   
+³   ÃÄÄÄBases
+³   ³       Response.cs
+³   ³       ResponseHandler.cs
+³   ³       
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet8.0
+³   ³               Acadify.Core.deps.json
+³   ³               Acadify.Core.dll
+³   ³               Acadify.Core.pdb
+³   ³               Acadify.Data.dll
+³   ³               Acadify.Data.pdb
+³   ³               Acadify.Infrastructure.dll
+³   ³               Acadify.Infrastructure.pdb
+³   ³               Acadify.Service.dll
+³   ³               Acadify.Service.pdb
+³   ³               
+³   ÃÄÄÄFeatures
+³   ³   ÀÄÄÄStudent
+³   ³       ÃÄÄÄCommands
+³   ³       ³   ÃÄÄÄHandlers
+³   ³       ³   ÃÄÄÄModels
+³   ³       ³   ÀÄÄÄValidations
+³   ³       ÀÄÄÄQueries
+³   ³           ÃÄÄÄHandlers
+³   ³           ³       StudentQueryHandler.cs
+³   ³           ³       
+³   ³           ÃÄÄÄModels
+³   ³           ³       GetStudentByIdQuery.cs
+³   ³           ³       GetStudentListQuery.cs
+³   ³           ³       
+³   ³           ÀÄÄÄResults
+³   ³                   GetSingleStudentResponse.cs
+³   ³                   GetStudentListResponse.cs
+³   ³                   
+³   ÃÄÄÄMappings
+³   ³   ³   StudentProfile.cs
+³   ³   ³   
+³   ³   ÀÄÄÄStudentMapper
+³   ³       ÃÄÄÄCommandMapping
+³   ³       ÀÄÄÄQueryMapping
+³   ³               GetStudentByIdMapping.cs
+³   ³               GetStudentListMapping.cs
+³   ³               
+³   ÀÄÄÄobj
+³       ³   Acadify.Core.csproj.nuget.dgspec.json
+³       ³   Acadify.Core.csproj.nuget.g.props
+³       ³   Acadify.Core.csproj.nuget.g.targets
+³       ³   project.assets.json
+³       ³   project.nuget.cache
+³       ³   
+³       ÀÄÄÄDebug
+³           ÀÄÄÄnet8.0
+³               ³   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+³               ³   Acadify..A53654BB.Up2Date
+³               ³   Acadify.Core.AssemblyInfo.cs
+³               ³   Acadify.Core.AssemblyInfoInputs.cache
+³               ³   Acadify.Core.assets.cache
+³               ³   Acadify.Core.csproj.AssemblyReference.cache
+³               ³   Acadify.Core.csproj.BuildWithSkipAnalyzers
+³               ³   Acadify.Core.csproj.CoreCompileInputs.cache
+³               ³   Acadify.Core.csproj.FileListAbsolute.txt
+³               ³   Acadify.Core.dll
+³               ³   Acadify.Core.GeneratedMSBuildEditorConfig.editorconfig
+³               ³   Acadify.Core.GlobalUsings.g.cs
+³               ³   Acadify.Core.pdb
+³               ³   Acadify.Core.sourcelink.json
+³               ³   
+³               ÃÄÄÄref
+³               ³       Acadify.Core.dll
+³               ³       
+³               ÀÄÄÄrefint
+³                       Acadify.Core.dll
+³                       
+ÃÄÄÄAcadify.Data
+³   ³   Acadify.Data.csproj
+³   ³   
+³   ÃÄÄÄAppMetaData
+³   ³       Router.cs
+³   ³       
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet8.0
+³   ³               Acadify.Data.deps.json
+³   ³               Acadify.Data.dll
+³   ³               Acadify.Data.pdb
+³   ³               
+³   ÃÄÄÄEntities
+³   ³       Department.cs
+³   ³       DepartmentSubject.cs
+³   ³       Student.cs
+³   ³       StudentSubject.cs
+³   ³       Subject.cs
+³   ³       
+³   ÀÄÄÄobj
+³       ³   Acadify.Data.csproj.nuget.dgspec.json
+³       ³   Acadify.Data.csproj.nuget.g.props
+³       ³   Acadify.Data.csproj.nuget.g.targets
+³       ³   project.assets.json
+³       ³   project.nuget.cache
+³       ³   
+³       ÀÄÄÄDebug
+³           ÀÄÄÄnet8.0
+³               ³   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+³               ³   Acadify.Data.AssemblyInfo.cs
+³               ³   Acadify.Data.AssemblyInfoInputs.cache
+³               ³   Acadify.Data.assets.cache
+³               ³   Acadify.Data.csproj.BuildWithSkipAnalyzers
+³               ³   Acadify.Data.csproj.CoreCompileInputs.cache
+³               ³   Acadify.Data.csproj.FileListAbsolute.txt
+³               ³   Acadify.Data.dll
+³               ³   Acadify.Data.GeneratedMSBuildEditorConfig.editorconfig
+³               ³   Acadify.Data.GlobalUsings.g.cs
+³               ³   Acadify.Data.pdb
+³               ³   Acadify.Data.sourcelink.json
+³               ³   
+³               ÃÄÄÄref
+³               ³       Acadify.Data.dll
+³               ³       
+³               ÀÄÄÄrefint
+³                       Acadify.Data.dll
+³                       
+ÃÄÄÄAcadify.Infrastructure
+³   ³   Acadify.Infrastructure.csproj
+³   ³   ModuleInfrastructureDependencies.cs
+³   ³   
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet8.0
+³   ³               Acadify.Data.dll
+³   ³               Acadify.Data.pdb
+³   ³               Acadify.Infrastructure.deps.json
+³   ³               Acadify.Infrastructure.dll
+³   ³               Acadify.Infrastructure.pdb
+³   ³               Acadify.Infrastructure.runtimeconfig.json
+³   ³               
+³   ÃÄÄÄData
+³   ³       ApplicationDbContext.cs
+³   ³       
+³   ÃÄÄÄInfrastructureBases
+³   ³       GenericRepositoryAsync.cs
+³   ³       IGenericRepositoryAsync.cs
+³   ³       
+³   ÃÄÄÄInterfaces
+³   ³       IStudentRepository.cs
+³   ³       
+³   ÃÄÄÄMigrations
+³   ³       20251014172300_InitialSetUp.cs
+³   ³       20251014172300_InitialSetUp.Designer.cs
+³   ³       ApplicationDbContextModelSnapshot.cs
+³   ³       
+³   ÃÄÄÄobj
+³   ³   ³   Acadify.Infrastructure.csproj.nuget.dgspec.json
+³   ³   ³   Acadify.Infrastructure.csproj.nuget.g.props
+³   ³   ³   Acadify.Infrastructure.csproj.nuget.g.targets
+³   ³   ³   project.assets.json
+³   ³   ³   project.nuget.cache
+³   ³   ³   
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet8.0
+³   ³           ³   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+³   ³           ³   Acadify..D51BB60E.Up2Date
+³   ³           ³   Acadify.Infrastructure.AssemblyInfo.cs
+³   ³           ³   Acadify.Infrastructure.AssemblyInfoInputs.cache
+³   ³           ³   Acadify.Infrastructure.assets.cache
+³   ³           ³   Acadify.Infrastructure.csproj.AssemblyReference.cache
+³   ³           ³   Acadify.Infrastructure.csproj.BuildWithSkipAnalyzers
+³   ³           ³   Acadify.Infrastructure.csproj.CoreCompileInputs.cache
+³   ³           ³   Acadify.Infrastructure.csproj.FileListAbsolute.txt
+³   ³           ³   Acadify.Infrastructure.dll
+³   ³           ³   Acadify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+³   ³           ³   Acadify.Infrastructure.genruntimeconfig.cache
+³   ³           ³   Acadify.Infrastructure.GlobalUsings.g.cs
+³   ³           ³   Acadify.Infrastructure.pdb
+³   ³           ³   Acadify.Infrastructure.sourcelink.json
+³   ³           ³   
+³   ³           ÃÄÄÄref
+³   ³           ³       Acadify.Infrastructure.dll
+³   ³           ³       
+³   ³           ÀÄÄÄrefint
+³   ³                   Acadify.Infrastructure.dll
+³   ³                   
+³   ÀÄÄÄRepositories
+³           StudentRepository.cs
+³           
+ÀÄÄÄAcadify.Service
+    ³   Acadify.Service.csproj
+    ³   ModuleServiceDependencies.cs
+    ³   
+    ÃÄÄÄAbstracts
+    ³       IStudentService.cs
+    ³       
+    ÃÄÄÄbin
+    ³   ÀÄÄÄDebug
+    ³       ÀÄÄÄnet8.0
+    ³               Acadify.Data.dll
+    ³               Acadify.Data.pdb
+    ³               Acadify.Infrastructure.dll
+    ³               Acadify.Infrastructure.pdb
+    ³               Acadify.Service.deps.json
+    ³               Acadify.Service.dll
+    ³               Acadify.Service.pdb
+    ³               
+    ÃÄÄÄImplementations
+    ³       StudentService.cs
+    ³       
+    ÀÄÄÄobj
+        ³   Acadify.Service.csproj.nuget.dgspec.json
+        ³   Acadify.Service.csproj.nuget.g.props
+        ³   Acadify.Service.csproj.nuget.g.targets
+        ³   project.assets.json
+        ³   project.nuget.cache
+        ³   
+        ÀÄÄÄDebug
+            ÀÄÄÄnet8.0
+                ³   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+                ³   Acadify..BA4A1709.Up2Date
+                ³   Acadify.Service.AssemblyInfo.cs
+                ³   Acadify.Service.AssemblyInfoInputs.cache
+                ³   Acadify.Service.assets.cache
+                ³   Acadify.Service.csproj.AssemblyReference.cache
+                ³   Acadify.Service.csproj.BuildWithSkipAnalyzers
+                ³   Acadify.Service.csproj.CoreCompileInputs.cache
+                ³   Acadify.Service.csproj.FileListAbsolute.txt
+                ³   Acadify.Service.dll
+                ³   Acadify.Service.GeneratedMSBuildEditorConfig.editorconfig
+                ³   Acadify.Service.GlobalUsings.g.cs
+                ³   Acadify.Service.pdb
+                ³   Acadify.Service.sourcelink.json
+                ³   
+                ÃÄÄÄref
+                ³       Acadify.Service.dll
+                ³       
+                ÀÄÄÄrefint
+                        Acadify.Service.dll
+                        

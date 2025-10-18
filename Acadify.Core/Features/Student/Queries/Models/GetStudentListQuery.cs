@@ -1,5 +1,4 @@
-﻿using Acadify.Core.Bases;
-using Acadify.Core.Features.Student.Queries.Results;
+﻿using Acadify.Core.Features.Student.Queries.Results;
 using Azure;
 using MediatR;
 using System;

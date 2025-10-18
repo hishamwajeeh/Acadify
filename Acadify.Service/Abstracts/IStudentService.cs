@@ -11,5 +11,6 @@ namespace Acadify.Service.Abstracts
     {
         public Task<List<Student>> GetAllStudentsAsync();
         public Task<Student> GetStudentByIdAsync(int id);
+        public Task<string> AddStudentAsync(Student student);
     }
 }

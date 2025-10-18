@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\top\\Desktop\\Acadify\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F47B72AF-AC0F-4052-8DF1-503879813D20}|Acadify.Data\\Acadify.Data.csproj|c:\\users\\top\\desktop\\acadify\\acadify.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47B72AF-AC0F-4052-8DF1-503879813D20}|Acadify.Data\\Acadify.Data.csproj|solutionrelative:acadify.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06742012-DC5B-4BED-9821-2235B7788E65}|Acadify.Api\\Acadify.Api.csproj|c:\\users\\top\\desktop\\acadify\\acadify.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06742012-DC5B-4BED-9821-2235B7788E65}|Acadify.Api\\Acadify.Api.csproj|solutionrelative:acadify.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 373,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Api\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Acadify.Api\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Api\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Acadify.Api\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T01:39:08.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Router.cs",
-              "DocumentMoniker": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Data\\AppMetaData\\Router.cs",
-              "RelativeDocumentMoniker": "Acadify.Data\\AppMetaData\\Router.cs",
-              "ToolTip": "C:\\Users\\top\\Desktop\\Acadify\\Acadify.Data\\AppMetaData\\Router.cs",
-              "RelativeToolTip": "Acadify.Data\\AppMetaData\\Router.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T01:36:32.138Z",
-              "EditorCaption": ""
             }
           ]
         }

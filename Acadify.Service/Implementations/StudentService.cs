@@ -20,13 +20,13 @@ namespace Acadify.Service.Implementations
 
         public async Task<string> AddStudentAsync(Student student)
         {
-            var studentResult = await _studentRepository
-                .GetTableNoTracking()
-                .Where(s => s.Name == student.Name)
-                .FirstOrDefaultAsync();
+            //var studentResult = await _studentRepository
+            //    .GetTableNoTracking()
+            //    .Where(s => s.Name == student.Name)
+            //    .FirstOrDefaultAsync();
 
-            if (studentResult != null)
-                return "Exist";
+            //if (studentResult != null)
+            //    return "Exist";
 
             await _studentRepository.AddAsync(student);
             return "Success";
@@ -45,6 +45,14 @@ namespace Acadify.Service.Implementations
                 .Where(s => s.StudID == id)
                 .FirstOrDefaultAsync();
             return student;
+        }
+
+        public Task<bool> IsNameExist(string name)
+        {
+            var student = _studentRepository.GetTableNoTracking().Where(s => s.Name == name);
+            if(student == null || student.Count() == 0)
+                return Task.FromResult(false);
+            return Task.FromResult(true);
         }
     }
 }

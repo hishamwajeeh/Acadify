@@ -1,4 +1,7 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Acadify.Core.Behaviors;
+using FluentValidation;
+using MediatR;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +20,11 @@ namespace Acadify.Core
             cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+            // Get Validators
+            services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+            // 
+            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
 
             return services;
         }

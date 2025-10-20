@@ -2,7 +2,7 @@
   {
     "ContainingType": "Acadify.Api.Controllers.StudentController",
     "Method": "CreateAsync",
-    "RelativePath": "Api/V1/Students/Create",
+    "RelativePath": "api/Student/Api/V1/Students/Create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "Acadify.Api.Controllers.StudentController",
     "Method": "GetAllStudentsAsync",
-    "RelativePath": "Api/V1/Students/GetAllStudents",
+    "RelativePath": "api/Student/Api/V1/Students/GetAllStudents",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -28,7 +28,7 @@
   {
     "ContainingType": "Acadify.Api.Controllers.StudentController",
     "Method": "GetStudentByIdAsync",
-    "RelativePath": "Api/V1/Students/GetStudentById/{id}",
+    "RelativePath": "api/Student/Api/V1/Students/GetStudentById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

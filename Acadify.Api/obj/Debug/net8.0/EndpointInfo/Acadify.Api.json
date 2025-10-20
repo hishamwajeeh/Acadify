@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/Api/V1/Students/GetAllStudents": {
+    "/api/Student/Api/V1/Students/GetAllStudents": {
       "get": {
         "tags": [
           "Student"
@@ -17,7 +17,7 @@
         }
       }
     },
-    "/Api/V1/Students/GetStudentById/{id}": {
+    "/api/Student/Api/V1/Students/GetStudentById/{id}": {
       "get": {
         "tags": [
           "Student"
@@ -40,7 +40,7 @@
         }
       }
     },
-    "/Api/V1/Students/Create": {
+    "/api/Student/Api/V1/Students/Create": {
       "post": {
         "tags": [
           "Student"
@@ -75,19 +75,15 @@
   "components": {
     "schemas": {
       "AddStudentCommand": {
-        "required": [
-          "address",
-          "name"
-        ],
         "type": "object",
         "properties": {
           "name": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "address": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "phone": {
             "type": "string",

@@ -1,8 +1,9 @@
-﻿using Acadify.Infrastructure.Data;
-using Microsoft.EntityFrameworkCore;
+﻿using Acadify.Core;
+using Acadify.Core.Middleware;
 using Acadify.Infrastructure;
+using Acadify.Infrastructure.Data;
 using Acadify.Service;
-using Acadify.Core;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +30,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<ErrorHandlerMiddleware>();
 
 app.UseHttpsRedirection();
 

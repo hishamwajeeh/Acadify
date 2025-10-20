@@ -156,3 +156,5 @@ C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\MediatR.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.sourcelink.json
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

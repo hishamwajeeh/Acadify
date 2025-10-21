@@ -1,11 +1,13 @@
 ﻿using Acadify.Core.Bases;
 using Acadify.Core.Features.Student.Queries.Models;
 using Acadify.Core.Features.Student.Queries.Results;
+using Acadify.Core.Resources;
 using Acadify.Core.Wrappers;
 using Acadify.Data.Enums;
 using Acadify.Service.Abstracts;
 using AutoMapper;
 using MediatR;
+using Microsoft.Extensions.Localization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,11 +24,13 @@ namespace Acadify.Core.Features.Student.Queries.Handlers
     {
         private readonly IStudentService _studentService;
         private readonly IMapper _mapper;
+        private readonly IStringLocalizer<SharedResources> _stringLocalizer;
 
-        public StudentQueryHandler(IStudentService studentService, IMapper mapper)
+        public StudentQueryHandler(IStudentService studentService, IMapper mapper, IStringLocalizer<SharedResources> stringLocalizer)
         {
             _studentService = studentService;
             _mapper = mapper;
+            _stringLocalizer = stringLocalizer;
         }
         public async Task<Response<List<GetStudentListResponse>>> Handle(GetStudentListQuery request, CancellationToken cancellationToken)
         {
@@ -39,7 +43,7 @@ namespace Acadify.Core.Features.Student.Queries.Handlers
         {
             var student = await _studentService.GetStudentByIdAsync(request.Id);
             if (student == null)
-                return NotFound<GetSingleStudentResponse>("Student Not Found");
+                return NotFound<GetSingleStudentResponse>(_stringLocalizer[SharedResourcesKeys.NOtFound]);
             var studentMapped = _mapper.Map<GetSingleStudentResponse>(student);
             return Success(studentMapped);
         }

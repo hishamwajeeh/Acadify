@@ -158,3 +158,6 @@ C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\refint\Acadify.Api.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.genruntimeconfig.cache
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\ref\Acadify.Api.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Ar\Acadify.Core.resources.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\En\Acadify.Core.resources.dll

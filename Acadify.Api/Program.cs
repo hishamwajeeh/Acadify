@@ -3,7 +3,10 @@ using Acadify.Core.Middleware;
 using Acadify.Infrastructure;
 using Acadify.Infrastructure.Data;
 using Acadify.Service;
+using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +22,31 @@ builder.Services.AddInfrastructureDependencies()
     .AddCoreDependencies();
 #endregion
 
+builder.Services.AddControllersWithViews();
+builder.Services.AddLocalization(opt =>
+    {
+        opt.ResourcesPath = "";
+    });
+
+builder.Services.Configure<RequestLocalizationOptions>(option =>
+    {
+        List<CultureInfo> supportedCultures = new List <CultureInfo>
+        {
+            new CultureInfo("en-US"),
+            new CultureInfo("fr-FR"),
+            new CultureInfo("es-ES"),
+            new CultureInfo("de-DE"),
+            new CultureInfo("it-IT"),
+            new CultureInfo("ar-EG")
+        }
+        ;
+        option.DefaultRequestCulture = new RequestCulture("ar-EG");
+        option.SupportedCultures = supportedCultures;
+        option.SupportedUICultures = supportedCultures;
+    }
+
+);
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -30,6 +58,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+var option = app.Services.GetService<IOptions<RequestLocalizationOptions>>();
+app.UseRequestLocalization(option.Value);
 
 app.UseMiddleware<ErrorHandlerMiddleware>();
 

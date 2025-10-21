@@ -18,3 +18,10 @@ C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.dll
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\refint\Acadify.Core.dll
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\ref\Acadify.Core.dll
+C:\Users\top\Desktop\Acadify\Acadify.Core\bin\Debug\net8.0\Ar\Acadify.Core.resources.dll
+C:\Users\top\Desktop\Acadify\Acadify.Core\bin\Debug\net8.0\En\Acadify.Core.resources.dll
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.Resources.SharedResources.Ar.resources
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.Resources.SharedResources.En.resources
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.csproj.GenerateResource.cache
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Ar\Acadify.Core.resources.dll
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\En\Acadify.Core.resources.dll

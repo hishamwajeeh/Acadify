@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Acadify.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d595dedf988408815de02466eaa460bb3b21da3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f48c8f92fdbcb422399b741cb27cd4f569a98c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Acadify.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Acadify.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

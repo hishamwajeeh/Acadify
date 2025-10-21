@@ -12,9 +12,9 @@ C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.Generate
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.AssemblyInfoInputs.cache
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.AssemblyInfo.cs
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.sourcelink.json
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify..A53654BB.Up2Date
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.dll
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\refint\Acadify.Core.dll
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\ref\Acadify.Core.dll
-C:\Users\top\Desktop\Acadify\Acadify.Core\obj\Debug\net8.0\Acadify.Core.sourcelink.json

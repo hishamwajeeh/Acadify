@@ -9,10 +9,10 @@ C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Inf
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.AssemblyInfo.cs
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.sourcelink.json
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify..D51BB60E.Up2Date
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.dll
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\refint\Acadify.Infrastructure.dll
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.genruntimeconfig.cache
 C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\ref\Acadify.Infrastructure.dll
-C:\Users\top\Desktop\Acadify\Acadify.Infrastructure\obj\Debug\net8.0\Acadify.Infrastructure.sourcelink.json

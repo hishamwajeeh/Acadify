@@ -10,9 +10,9 @@ C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.Ge
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.AssemblyInfoInputs.cache
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.AssemblyInfo.cs
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.csproj.CoreCompileInputs.cache
+C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.sourcelink.json
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify..BA4A1709.Up2Date
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.dll
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\refint\Acadify.Service.dll
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\ref\Acadify.Service.dll
-C:\Users\top\Desktop\Acadify\Acadify.Service\obj\Debug\net8.0\Acadify.Service.sourcelink.json

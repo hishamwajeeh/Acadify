@@ -16,6 +16,8 @@ namespace Acadify.Core.Mappings
             GetStudentListMapping();
             GetStudentByIdMapping();
             AddStudentCommandMapping();
+            EditStudentCommandMapping();
+            GetStudentPaginationMapping();
         }
     }
 }

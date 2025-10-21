@@ -18,6 +18,9 @@ namespace Acadify.Data.AppMetaData
             public const string getAllStudents = Prefix + "GetAllStudents";
             public const string getStudentById = Prefix + "GetStudentById/{id}";
             public const string Create = Prefix + "Create";
+            public const string Edit = Prefix + "Edit";
+            public const string Delete = Prefix + "Delete/{id}";
+            public const string Paginated = Prefix + "Paginated";
         }
     }
 }

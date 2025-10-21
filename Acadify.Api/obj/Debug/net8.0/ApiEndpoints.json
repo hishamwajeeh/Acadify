@@ -17,6 +17,38 @@
   },
   {
     "ContainingType": "Acadify.Api.Controllers.StudentController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Student/Api/V1/Students/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Acadify.Api.Controllers.StudentController",
+    "Method": "EditAsync",
+    "RelativePath": "api/Student/Api/V1/Students/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editStudentCommand",
+        "Type": "Acadify.Core.Features.Student.Commands.Models.EditStudentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Acadify.Api.Controllers.StudentController",
     "Method": "GetAllStudentsAsync",
     "RelativePath": "api/Student/Api/V1/Students/GetAllStudents",
     "HttpMethod": "GET",
@@ -37,6 +69,37 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Acadify.Api.Controllers.StudentController",
+    "Method": "Paginated",
+    "RelativePath": "api/Student/Api/V1/Students/Paginated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Search",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

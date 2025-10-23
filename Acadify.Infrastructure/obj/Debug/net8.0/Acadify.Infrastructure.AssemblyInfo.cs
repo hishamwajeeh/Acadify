@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Acadify.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d595dedf988408815de02466eaa460bb3b21da3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79ccf921ef70b7cfd8ca6804a9276cde72c83f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Acadify.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Acadify.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

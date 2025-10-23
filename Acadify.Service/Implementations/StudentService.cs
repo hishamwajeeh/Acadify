@@ -62,7 +62,7 @@ namespace Acadify.Service.Implementations
                 .AsQueryable();
             if (search != null)
             {
-                querable = querable.Where(s => s.Name.Contains(search) || s.Address.Contains(search));
+                querable = querable.Where(s => s.NameEn.Contains(search) || s.Address.Contains(search));
             }
             switch (studentOrderingEnum)
             {
@@ -70,13 +70,13 @@ namespace Acadify.Service.Implementations
                     querable = querable.OrderBy(s => s.StudID);
                     break;
                 case StudentOrderingEnum.Name:
-                    querable = querable.OrderBy(s => s.Name);
+                    querable = querable.OrderBy(s => s.NameEn);
                     break;
                 case StudentOrderingEnum.Address:
                     querable = querable.OrderBy(s => s.Address);
                     break;
                 case StudentOrderingEnum.DepartmentName:
-                    querable = querable.OrderBy(s => s.Department.DName);
+                    querable = querable.OrderBy(s => s.Department.DNameEn);
                     break;
                 default:
                     querable = querable.OrderBy(s => s.StudID);
@@ -113,7 +113,7 @@ namespace Acadify.Service.Implementations
 
         public Task<bool> IsNameExist(string name)
         {
-            var student = _studentRepository.GetTableNoTracking().Where(s => s.Name == name);
+            var student = _studentRepository.GetTableNoTracking().Where(s => s.NameEn == name);
             if (student == null || student.Count() == 0)
                 return Task.FromResult(false);
             return Task.FromResult(true);
@@ -122,7 +122,7 @@ namespace Acadify.Service.Implementations
         public async Task<bool> IsNameExistExcludeSelf(string name, int id)
         {
             return await _studentRepository.GetTableNoTracking()
-                .AnyAsync(s => s.Name == name && s.StudID != id);
+                .AnyAsync(s => s.NameEn == name && s.StudID != id);
         }
 
     }

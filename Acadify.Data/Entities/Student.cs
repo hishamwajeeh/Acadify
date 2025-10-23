@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acadify.Data.Commons;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -8,12 +9,14 @@ using System.Threading.Tasks;
 
 namespace Acadify.Data.Entities
 {
-    public class Student
+    public class Student : GeneralLocalizableEntity
     {
         [Key]
         public int StudID { get; set; }
         [StringLength(200)]
-        public string Name { get; set; }
+        public string NameAr { get; set; }
+        [StringLength(200)]
+        public string NameEn { get; set; }
         [StringLength(500)]
         public string Address { get; set; }
         [StringLength(500)]

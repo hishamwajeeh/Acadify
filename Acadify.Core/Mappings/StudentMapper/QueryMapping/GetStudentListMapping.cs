@@ -13,7 +13,7 @@ namespace Acadify.Core.Mappings
         public void GetStudentListMapping()
         {
             CreateMap<Student, GetStudentListResponse>()
-            .ForMember(dest => dest.DepartmrntName, opt => opt.MapFrom(src => src.Department.DName));
+            .ForMember(dest => dest.DepartmrntName, opt => opt.MapFrom(src => src.Department.DNameEn));
         }
     }
 }

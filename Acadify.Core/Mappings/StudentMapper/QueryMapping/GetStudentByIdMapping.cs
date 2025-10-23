@@ -13,7 +13,9 @@ namespace Acadify.Core.Mappings
         public void GetStudentByIdMapping()
         {
             CreateMap<Student, GetSingleStudentResponse>()
-            .ForMember(dest => dest.DepartmrntName, opt => opt.MapFrom(src => src.Department.DName));
+            .ForMember(dest => dest.DepartmrntName, opt => opt.MapFrom(src => src.Department.DNameEn))
+            .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Localize(src.NameEn, src.NameAr)))
+            ;
         }
     }
 }

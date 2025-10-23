@@ -29,6 +29,7 @@ C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.C
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -134,6 +135,8 @@ C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Acadify.Core.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Acadify.Data.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Acadify.Infrastructure.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Acadify.Service.pdb
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Ar\Acadify.Core.resources.dll
+C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\En\Acadify.Core.resources.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.csproj.AssemblyReference.cache
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.GeneratedMSBuildEditorConfig.editorconfig
@@ -158,6 +161,3 @@ C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\refint\Acadify.Api.dll
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.pdb
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\Acadify.Api.genruntimeconfig.cache
 C:\Users\top\Desktop\Acadify\Acadify.Api\obj\Debug\net8.0\ref\Acadify.Api.dll
-C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
-C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\Ar\Acadify.Core.resources.dll
-C:\Users\top\Desktop\Acadify\Acadify.Api\bin\Debug\net8.0\En\Acadify.Core.resources.dll

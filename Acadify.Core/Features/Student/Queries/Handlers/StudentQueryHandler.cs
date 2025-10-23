@@ -57,9 +57,9 @@ namespace Acadify.Core.Features.Student.Queries.Handlers
             var mappedQuery = query.Select(student => new GetStudentPaginatedListResponse
             {
                 StudID = student.StudID,
-                Name = student.Name,
+                Name = student.NameEn,
                 Address = student.Address,
-                DepartmentName = student.Department.DName
+                DepartmentName = student.Department.DNameEn
             });
 
             var paginatedList = await mappedQuery.ToPaginatedListAsync(request.PageNumber, request.PageSize);

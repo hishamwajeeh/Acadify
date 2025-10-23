@@ -14,9 +14,9 @@ namespace Acadify.Core.Mappings
         {
             CreateMap<Student, GetStudentPaginatedListResponse>()
                 .ForMember(dest => dest.StudID, opt => opt.MapFrom(src => src.StudID))
-                .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name))
+                .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.NameEn))
                 .ForMember(dest => dest.Address, opt => opt.MapFrom(src => src.Address))
-                .ForMember(dest => dest.DepartmentName, opt => opt.MapFrom(src => src.Department.DName));
+                .ForMember(dest => dest.DepartmentName, opt => opt.MapFrom(src => src.Department.DNameEn));
 
         }
     }
